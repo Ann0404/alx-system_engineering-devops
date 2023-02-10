@@ -1,8 +1,8 @@
-##**Shell Basics**
+## **Shell Basics**
 
-###This directory entails my attempt to complete the challenge on shell basics.  
+### This directory entails my attempt to complete the challenge on shell basics.  
   
-####It contains the following files:  
+#### It contains the following files:  
 0-current_working_directory - This script prints the absolute path of the working directory.  
 1-listit - This script prints the contents of the directory.   
 2-bring_me_home - This script takes one back to the home directory.   
